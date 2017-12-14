@@ -1,0 +1,21 @@
+.button{
+	background-color: blue;
+	width: 30%;
+	height: 10px;
+	margin-right: 35%;
+	margin-left: 35%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	text-align: center;
+}
+ 
+ body{
+ 	background-color: yellow;
+ }
+
+ .button img{
+ 	width: 90%;
+ 	margin-right: 5%;
+	margin-left: 5%;
+ }
