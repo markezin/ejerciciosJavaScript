@@ -1,4 +1,4 @@
-.button{
+div.button{
 	background-color: blue;
 	width: 30%;
 	height: 10px;
@@ -10,12 +10,21 @@
 	text-align: center;
 }
  
- body{
+body{
  	background-color: grey;
  }
 
- .button img{
+.button img{
  	width: 90%;
  	margin-right: 5%;
 	margin-left: 5%;
+ }
+
+#myImage{
+ 	width: 30%;
+	height: 400px;
+	margin-right: 35%;
+	margin-left: 35%;
+	padding-top: 10px;
+	padding-bottom: 10px;
  }
